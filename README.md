@@ -352,3 +352,60 @@ Supports day-to-day operational decisions by helping supervisors identify blocke
 </p>
 
 ---
+# ⚙️ Technical Highlights
+
+This solution leverages advanced Power BI capabilities to deliver a scalable, high-performance reporting experience that supports executive decision-making while maintaining an intuitive user experience.
+
+| Technology | Implementation | Business Value |
+|------------|----------------|----------------|
+| **Star Schema** | Built a dimensional data model to optimize relationships and reporting performance. | Faster report execution and simplified analytical queries. |
+| **Power Query** | Cleaned, transformed, and standardized raw operational data before loading into the model. | Improved data quality and established a reliable single source of truth. |
+| **Advanced DAX** | Developed reusable business measures for KPIs, financial analysis, and operational monitoring. | Delivered accurate, dynamic calculations across all reports. |
+| **Time Intelligence** | Implemented cumulative spending, monthly trends, and Year-over-Year comparisons. | Enabled financial trend analysis and long-term performance monitoring. |
+| **Field Parameters** | Allowed users to dynamically switch chart dimensions between Projects and Tasks. | Increased dashboard flexibility without duplicating visuals. |
+| **Dynamic Titles** | Created context-aware report titles that automatically update based on slicer selections. | Improved report clarity and reduced interpretation errors. |
+| **Bookmarks & Selection Pane** | Built interactive navigation and visual toggles for alternative analytical views. | Enhanced user experience while maximizing dashboard space. |
+| **Conditional Formatting** | Applied visual indicators to highlight budget overruns and operational risks. | Accelerated identification of critical issues requiring attention. |
+
+---
+
+## Key DAX Measures
+
+The dashboard includes a collection of reusable DAX measures designed to support financial analysis, operational monitoring, and executive reporting.
+
+| Measure | Description |
+|---------|-------------|
+| **Budget Variance** | Difference between allocated budget and actual spending. |
+| **Budget Utilization %** | Percentage of the allocated budget that has been consumed. |
+| **Remaining Balance** | Available budget remaining after expenditures. |
+| **Completion Percentage** | Overall progress of engineering tasks. |
+| **Blocked Tasks** | Total blocked activities requiring intervention. |
+| **Cumulative Spend** | Running total of project expenditures over time. |
+| **YoY Growth** | Compares financial performance against previous years. |
+| **Dynamic Report Title** | Automatically reflects the active report filters. |
+
+---
+
+## Dashboard Capabilities
+
+✔ Executive KPI Reporting
+
+✔ Financial Performance Monitoring
+
+✔ Budget Variance Analysis
+
+✔ Project Progress Tracking
+
+✔ Operational Bottleneck Detection
+
+✔ Interactive Drill-Down Analysis
+
+✔ Dynamic Axis Switching
+
+✔ Time-Series Financial Analysis
+
+✔ Cross-Department Performance Monitoring
+
+✔ Interactive Executive Reporting
+
+---
