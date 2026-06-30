@@ -12,7 +12,7 @@ Power BI • DAX • Power Query • Data Modeling • Time Intelligence • Exe
 This project demonstrates an enterprise-grade Business Intelligence solution built in Power BI to monitor construction project execution, budget performance, operational bottlenecks, and executive KPIs. It combines advanced DAX, Time Intelligence, dynamic Field Parameters, and interactive reporting to support data-driven decision-making across Finance, PMO, and Operations.
 
 <p align="center">
-  <img src="images/hero_image.png" alt="Enterprise Construction Analytics Dashboard" width="100%">
+  <img src="Images/hero_image.png" alt="Enterprise Construction Analytics Dashboard" width="100%">
 </p>
 
 Case Study: Integrated Project Management System (IPMS)
