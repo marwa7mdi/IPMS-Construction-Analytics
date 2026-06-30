@@ -26,9 +26,8 @@ To establish a single source of truth, an integrated data model was architected 
 * **Performance Metrics:** Completion Progress (%), Budget Amount ($), and Actual Amount Spent ($).
 
 ---
-<p align="center">
-  <img src="F:\ندوة النقابة\Project\Picture1.png" alt="CFO Budget View - All Time" width="90%">
-</p>
+<img width="624" height="346" alt="Picture1" src="https://github.com/user-attachments/assets/abed0d5f-2318-41e8-a8d1-b6e5fca124b5" />
+
 ## 3. Stakeholder-Driven Solution Architecture (User Personas)
 A unified, multi-layered interactive dashboard was deployed, utilizing custom reporting tiers optimized specifically for individual stakeholder groups:
 
@@ -42,18 +41,16 @@ A unified, multi-layered interactive dashboard was deployed, utilizing custom re
 * **Core Objective:** Spotting site delays, measuring workload volume, and cross-site productivity benchmarking.
 * **AI-Driven Root Cause Analysis:** Integrates a *Decomposition Tree (Tasks Explain)* to seamlessly dissect total project tasks (613 total corporate tasks) down through specific projects, priority tiers, and current workflow status.
 * **Blocker Assessment Metrics:** Isolates volume constraints per project using stacked columns. This surfaces that **Warehouse D** accounts for the highest operational friction with 43 "Blocked" tasks, necessitating immediate administrative intervention.
-  <p align="center">
-  <img src="F:\ندوة النقابة\Project\Picture2.png" alt="PMO Task Status & AI Decomposition Tree" width="90%">
-</p>
+<img width="624" height="342" alt="Picture2" src="https://github.com/user-attachments/assets/5bdd7ee7-70c8-4a4f-8295-6f38b376543b" />
+
 
 ### Operations & Site Management Perspective
 * **Core Objective:** Real-time task tracking, bottleneck identification, and direct supervisor accountability.
 * **Interactive Progress Matrix:** Deploys an intuitive Gantt-style progress bar showcasing real-time operational status per engineering task (e.g., *Steel Framework Setup*, *Concrete Pouring*).
 * **Traffic-Light Task Grouping:** Leverages color-coded operational identifiers (Pink for Blocked, Green for In Progress, Blue for Completed, Grey for Not Started) combined with hardcoded Task Priority indicators to streamline field execution.
 
-<p align="center">
-  <img src="F:\ندوة النقابة\Project\Picture3.png" alt="CFO Budget View - Filtered" width="90%">
-</p>
+<img width="624" height="341" alt="Picture3" src="https://github.com/user-attachments/assets/ed57070b-4556-40ea-9e13-dc923cf6fd76" />
+
 ---
 
 ## 4. Advanced Technical Implementation & DAX Architecture
