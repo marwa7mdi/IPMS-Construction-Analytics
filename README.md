@@ -1,5 +1,4 @@
-# Case Study: Integrated Project Management System (IPMS)
-An enterprise-grade Power BI dashboard for Al-Bina'a Construction to track project execution, financials, and operational bottlenecks. Features advanced DAX, Time Intelligence, and dynamic Field Parameters.
+Case Study: Integrated Project Management System (IPMS)
 ---
 **Client / Company:** Al-Bina'a Construction  
 **Role:** Data Analyst & Power BI Developer  
