@@ -1,5 +1,6 @@
 # Case Study: Integrated Project Management System (IPMS)
 An enterprise-grade Power BI dashboard for Al-Bina'a Construction to track project execution, financials, and operational bottlenecks. Features advanced DAX, Time Intelligence, and dynamic Field Parameters.
+
 **Client / Company:** Al-Bina'a Construction  
 **Role:** Data Analyst & Power BI Developer  
 **Focus:** Enterprise Analytics Architecture & Strategic Reporting  
@@ -35,13 +36,16 @@ A unified, multi-layered interactive dashboard was deployed, utilizing custom re
 * **Budget Utilization Analytics:** A dynamic Gauge visualizes an overall consumption rate of **83.63%**, indicating that **16.37%** of original funds remain available.
   
 * **Project-Level Variance Tracking:** Employs explicit financial thresholds via conditional formatting. For instance, **Shopping Complex B** is immediately flagged as a high-risk asset with a negative variance of **-$24M** (Spent: $92M | Budget: $68M), while healthy sites like Office Tower C remain under-budget.
+
 <p align="center">
 <img width="624" height="346" alt="Picture1" src="https://github.com/user-attachments/assets/abed0d5f-2318-41e8-a8d1-b6e5fca124b5" />
 </p>
+
 ### Project Management Office (PMO Perspective)
 * **Core Objective:** Spotting site delays, measuring workload volume, and cross-site productivity benchmarking.
 * **AI-Driven Root Cause Analysis:** Integrates a *Decomposition Tree (Tasks Explain)* to seamlessly dissect total project tasks (613 total corporate tasks) down through specific projects, priority tiers, and current workflow status.
 * **Blocker Assessment Metrics:** Isolates volume constraints per project using stacked columns. This surfaces that **Warehouse D** accounts for the highest operational friction with 43 "Blocked" tasks, necessitating immediate administrative intervention.
+
 <p align="center">
 <img width="624" height="342" alt="Picture2" src="https://github.com/user-attachments/assets/5bdd7ee7-70c8-4a4f-8295-6f38b376543b" />
 </p>
@@ -50,6 +54,7 @@ A unified, multi-layered interactive dashboard was deployed, utilizing custom re
 * **Core Objective:** Real-time task tracking, bottleneck identification, and direct supervisor accountability.
 * **Interactive Progress Matrix:** Deploys an intuitive Gantt-style progress bar showcasing real-time operational status per engineering task (e.g., *Steel Framework Setup*, *Concrete Pouring*).
 * **Traffic-Light Task Grouping:** Leverages color-coded operational identifiers (Pink for Blocked, Green for In Progress, Blue for Completed, Grey for Not Started) combined with hardcoded Task Priority indicators to streamline field execution.
+
 <p align="center">
 <img width="624" height="341" alt="Picture3" src="https://github.com/user-attachments/assets/ed57070b-4556-40ea-9e13-dc923cf6fd76" />
 </p>
